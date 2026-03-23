@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hi my name is Raul
+I'am an urban planner
+
+Interested on Geospatial Analytics
+
+
+
+
 
  🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
