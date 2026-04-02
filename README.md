@@ -2,12 +2,12 @@
 
 Hi my name is Raul
 I'am an urban planner
-
+Student from [Facultad de Arquitectura](https://arquitectura.unam.mx/)
 Interested on Geospatial Analytics
 
 
 
-
+S
 
  🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,3 +18,6 @@ Interested on Geospatial Analytics
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[def]: https://arquitectura.unam.mx
