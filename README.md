@@ -5,9 +5,8 @@ I'am an urban planner
 Student from [Facultad de Arquitectura](https://arquitectura.unam.mx/)
 Interested on Geospatial Analytics
 
+Me gusta el ciclismo
 
-
-S
 
  🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
